@@ -96,11 +96,11 @@ body{
     position: relative;
 }
 .sale-image__offer{
-    width:35%;
+    width:400px;
     border: solid black 2px;
     position:absolute;
-    top:10%;
-    left: 10%;
+    top:200px;
+    left:20%;
     padding: 2%;
 
     background-color: burlywood;
@@ -187,12 +187,15 @@ body{
 
     }
     @media screen and (max-width:800px){
+
+    
         body{
             font-size:10px;
         }
         .course-card{
             flex-basis: 40%;
         }
+    }
     
     @media screen and (max-width:600px){
         .categories{
@@ -204,8 +207,12 @@ body{
         .navbar__s4{
             display: block;
         }
-        
-    
+    .sale-image__offer{
+        position: absolute;
+        top: 75px;
+        width: 250px;
+        left: 5%;
+    }
     }
 
 
