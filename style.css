@@ -99,7 +99,7 @@ body{
     width:35%;
     border: solid black 2px;
     position:absolute;
-    top:20%;
+    top:10%;
     left: 10%;
     padding: 2%;
 
@@ -204,7 +204,7 @@ body{
         .navbar__s4{
             display: block;
         }
-    
+        
     
     }
 
