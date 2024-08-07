@@ -193,9 +193,7 @@ body{
         .course-card{
             flex-basis: 40%;
         }
-        .sale-image__offer{
-            width: 50%;
-    }
+    
     @media screen and (max-width:600px){
         .categories{
             display: none;
