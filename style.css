@@ -209,7 +209,7 @@ body{
         }
     .sale-image__offer{
         position: absolute;
-        top: 60%;
+        top: 50%;
         width: 150px;
         left: 2%;
     }
