@@ -91,16 +91,18 @@ body{
     color: black;
     border: solid blueviolet 1px;
 }
-.sale-image img{
-    width: 100%;
+.sale img{
     position: relative;
 }
+.sale-image img{
+    width: 100%;
+}
 .sale-image__offer{
-    width:400px;
+    width:35%;
     border: solid black 2px;
     position:absolute;
-    top:200px;
-    left:20%;
+    top:10%;
+    left:10%;
     padding: 2%;
 
     background-color: burlywood;
@@ -207,12 +209,7 @@ body{
         .navbar__s4{
             display: block;
         }
-    .sale-image__offer{
-        position: absolute;
-        top: 50%;
-        width: 230px;
-        left: 2%;
-    }
+
     }
 
 
