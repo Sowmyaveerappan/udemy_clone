@@ -91,7 +91,7 @@ body{
     color: black;
     border: solid blueviolet 1px;
 }
-.sale img{
+.sale-img{
     position: relative;
 }
 .sale-image img{
@@ -213,7 +213,7 @@ body{
         }
         .sale-image__offer{
             position: absolute;
-            top:6%;
+            top:8%;
             width:45%;
         }
     
