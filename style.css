@@ -96,13 +96,15 @@ body{
 }
 .sale-image img{
     width: 100%;
+    
 }
 .sale-image__offer{
     width:35%;
     border: solid black 2px;
     position:absolute;
-    top:10%;
-    left:10%;
+    top:150px;
+    left:50px;
+    
     padding: 2%;
 
     background-color: burlywood;
@@ -208,6 +210,10 @@ body{
         }
         .navbar__s4{
             display: block;
+        }
+        .sale-image__offer{
+            top:50px;
+         
         }
 
     }
