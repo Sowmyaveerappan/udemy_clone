@@ -102,8 +102,8 @@ body{
     width:35%;
     border: solid black 2px;
     position:absolute;
-    top:150px;
-    left:50px;
+    top:30%;
+    left:10%;
     
     padding: 2%;
 
@@ -212,11 +212,14 @@ body{
             display: block;
         }
         .sale-image__offer{
-            top:50px;
-         
+            position: absolute;
+            top:10%;
         }
-
+    
     }
+    
+
+    
 
 
         
